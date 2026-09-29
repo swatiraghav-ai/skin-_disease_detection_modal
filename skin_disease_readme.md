@@ -1,7 +1,7 @@
 # SkinCare-AI
 
 ## AI-Powered Rural Healthcare Assistant for Preliminary Skin Disease Screening
-
+ 
 SkinCare AI is an AI-assisted healthcare platform designed for rural communities and health camps where access to dermatologists and specialized healthcare facilities is limited.
 
 The system analyzes a patient's skin image to provide a preliminary screening result, a confidence score, and a recommendation for further medical attention. The long-term vision is to combine the image with reported symptoms and patient information (see [Roadmap](#-roadmap--future-scope)).
